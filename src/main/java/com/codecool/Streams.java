@@ -53,7 +53,7 @@ public class Streams {
          */
 
         Integer twoToTheZeroth = 1;
-        UnaryOperator<Integer> = (Interger x) -> 2*x;
+        UnaryOperator<Integer> doubler = (Interger x) -> 2*x;
         Stream<Integer> s4 = /* ??? */ ;
 
         /*
